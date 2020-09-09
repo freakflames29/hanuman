@@ -27,7 +27,7 @@ class insertionsort
        a[j+1]=temp;
 
     }
-    System.out.println("another check ");
+    System.out.println("another check korbona ");
     System.out.println("the elements after sort");
     for (i=0;i<n ;i++ )
 
