@@ -40,6 +40,9 @@ class selection_sort
         System.out.println(a[i]);
 
      }
+     System.out.println("finsihed");
+    
+   
 
   }
 }
