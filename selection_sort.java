@@ -8,6 +8,7 @@ class selection_sort
      System.out.println("Enter the elements length");
      n=s.nextInt();
      int[] a=new int[n];
+     /*ss*/
 
      System.out.println("Enter the elements");
      for(i=0;i<n;i++)
