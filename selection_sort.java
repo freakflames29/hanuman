@@ -40,6 +40,7 @@ class selection_sort
       {
         System.out.println(a[i]);
 
+
      }
 
   }
