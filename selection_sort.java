@@ -42,6 +42,9 @@ class selection_sort
 
 
      }
+     System.out.println("finsihed");
+    
+   
 
   }
 }
