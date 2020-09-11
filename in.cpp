@@ -28,4 +28,5 @@ int main()
   {
     std::cout << a[i] << " ";
   }
+  std::cout << "all is well" << '\n';
 }
