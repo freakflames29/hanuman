@@ -6,6 +6,6 @@ public class ls
     int a;
     int b;
     int c;
-    gf hobe kobe
+    //gf hobe kobe;
   }
 }
