@@ -30,7 +30,7 @@ public class linear_search
         }
         else
         {
-            System.out.println(search+" found "+count+" times");
+            System.out.println(search+" found "+(count)+" times");
         }
     }
 }
